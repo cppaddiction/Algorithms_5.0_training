@@ -175,7 +175,7 @@ int main()
 
                 int saveoldparty = saveparty;
 
-                int delta = parties.size() - 1 - (i + 1) + 1;;
+                int delta = parties.size() - 1 - (i + 1) + 1;
 
                 if (saveparty > cut + 2 && delta > 0)
                 {
